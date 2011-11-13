@@ -1,0 +1,12 @@
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\GenerateResource.read.1.tlog
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\GenerateResource.write.1.tlog
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.dll
+c:\users\matt\documents\visual studio 2010\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.pdb
